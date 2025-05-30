@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Constraint Layout Basics</string>
+    <string name="header_image">Header Image</string>
+    <string name="poster">Poster</string>
+    <string name="hello_arman">Hello, Arman</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="daily_exploration">Daily Exploration</string>
+    <string name="check">check</string>
+    <string name="residental_upgrading">Residental Upgrading</string>
+    <string name="life_development">Life Development</string>
+    <string name="family_development">Family Development</string>
+    <string name="hope_you_like_it">Hope, you like it</string>
+</resources>
